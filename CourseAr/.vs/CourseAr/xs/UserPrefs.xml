@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{24D9D8BB-DEDC-ADD7-6E2A-948D96289340}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdd3f44d-52c5-4612-9c11-500193b76266" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlaysTrackedImages.cs">
+    <Files>
+      <File FileName="Assets/PlaysTrackedImages.cs" Line="19" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAr" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
